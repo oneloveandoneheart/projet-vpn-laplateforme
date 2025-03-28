@@ -15,7 +15,7 @@ This repository contains the files and resources for the **vpn-project** project
 
 
 - **`vpn_project/`**  
-  Contains the server and client configurations files alongside automation script.
+  Contains the server and client configurations files alongside automation script (pki directory, google-auth 2FA keys for the clients).
 
 ## Project Overview
 
